@@ -1,0 +1,8 @@
+[2026-06-24 10:24:40] Function add' called with args: 5, 3
+[2026-06-24 10:24:40] 'add' returned: 8
+[2026-06-24 10:24:40] Function multiply' called with args: 4, 7
+[2026-06-24 10:24:40] 'multiply' returned: 28
+[2026-06-24 10:24:40] Function divide' called with args: 10, 2
+[2026-06-24 10:24:40] 'divide' returned: 5.0
+[2026-06-24 10:24:40] Function divide' called with args: 8, 0
+[2026-06-24 10:24:40] 'divide' returned: Error: Division by zero
